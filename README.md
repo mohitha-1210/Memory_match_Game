@@ -1,6 +1,6 @@
 # Memory Match - Python Edition
 
-A classic 4x4 grid memory game built as a technical demonstration of GUI development and game logic in Python.
+A classic 4x4 grid memory game(color) built as a technical demonstration of GUI development and game logic in Python.
 
 ## 🛠️ Technical Stack
 
