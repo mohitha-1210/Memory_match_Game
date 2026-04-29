@@ -11,7 +11,7 @@ A classic 4x4 grid memory game(color) built as a technical demonstration of GUI 
 ## 🚀 Key Features
 
 * **Randomized Board:** Uses the "random" library to ensure a unique puzzle every session.
-* **Game Logic:** Implements a 1-second delay for non-matching pairs using `pygame.time.get_ticks()` to ensure a smooth user experience.
+* **Game Logic:** Implements a 1-second delay for non-matching pairs using `pygame.time.get_ticks() to ensure a smooth user experience.
 * **Interactive UI:** Responsive mouse-click detection and real-time score/win rendering.
 * **Reset System:** Integrated 'R' key listener to re-initialize the game state without restarting the script.
 
